@@ -1,0 +1,43 @@
+.parent{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.child{
+  border: 2px solid #0B1907;
+  padding: 2%;
+  margin: 2%;
+  box-shadow: 3px 3px 3px #ddd;
+}
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid #0B1907;
+
+}
+h2,
+h3{
+  text-align: center;
+}
+a{
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  background-color: #0B1907;
+  color: #fff;
+  padding: 2%;
+}
+.leftChild{
+  width: 30%;
+  border: 2px solid #ddd;
+  padding: 2%;
+  margin: 2%;
+}
+.rightChild{
+  width: 70%;
+  border: 2px solid #ddd;
+  padding: 2%;
+  margin: 2%;
+
+}
