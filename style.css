@@ -41,3 +41,13 @@ a{
   margin: 2%;
 
 }
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid #0B1907;
+
+}
+h3{
+  text-align: center;
+}
