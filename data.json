@@ -1,6 +1,55 @@
 {
   "career":{
   "info":" I aspire for a challenging position in a professional Organization where I can enhance my professional skills and strengthen my performance in adding with Organization’s motto. Myself a self motivated achiever with an ability to plan and execute."
-    
-  }
+
+},
+  "education":[
+    {
+    "degree":"B-Tech(computer science and engineering)",
+    "institute":"Siddharth institute of engineering and technology",
+    "data":["2015-19","85%"]
+  },
+  {
+  "degree":"Intermediate(M.P.C)",
+  "institute":"Sri chaitanya",
+  "data":["2013-15","94%"]
+},
+{
+"degree":"S.S.C",
+"institute":"gnanodaya",
+"data":["2013","97%"]
+}
+],
+"skills":[
+{
+  "title":"programming languages:",
+  "set":["java","c","python","c++"]
+},
+{
+  "title":"web technologies:",
+  "set":["css","html","javascript","php"]
+},
+{
+  "title":"data bases:",
+  "set":["oracle","mysql","sql"]
+},
+{
+  "title":"operating system:",
+  "set":["windows","andriod","linux","doc"]
+}
+],
+"achievements":[
+  {
+"achievedData":"got  First prize in ppt."
+
+},
+  {
+"achievedData":"got second prize in quiz."
+
+},
+{
+"achievedData":"got First prize in running."
+
+}
+]
 }
